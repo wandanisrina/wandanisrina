@@ -1,6 +1,7 @@
-## Hi there 👋
+## Wanda Nisrina Aqilah - Data Analyst / Data Scientist
 
-I am Wanda, a certified Pharmacist in Indonesia, currently transitioning into a Data Analyst. Previously, I had two years of experience in Logistics and Supply Chain Management.
+Hello!! I am Wanda, a certified Pharmacist in Indonesia, currently transitioning into a Data Analyst. Previously, I had two years of experience in Logistics and Supply Chain Management. Practical skills in Python, SQL, and Tableau are developed through training and several projects. Seeking to leverage skills in data scientist in supply chain and healthcare to contribute to business growth, distribution efficiency, and strategic planning.
+---
 
 🔭 I'm currently working on an SME project, analyzing historical business data and developing a predictive time series model.
 🌱 Continuously improving my skills in Python, SQL, and data visualization through hands-on projects.
