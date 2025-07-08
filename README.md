@@ -5,7 +5,9 @@ Hello!! I am Wanda, a certified Pharmacist in Indonesia, currently transitioning
 ---
 
 🔭 I'm currently working on an SME project, analyzing historical business data and developing a predictive time series model.
+
 🌱 Continuously improving my skills in Python, SQL, and data visualization through hands-on projects.
+
 👯 I’m looking to collaborate on various data projects. My speciality is in Healthcare, Pharmaceutical, and Supply Chain
 
 📫 You can reach me through [email](mailto:wandanisrina13@gmail.com), [LinkedIn](https://www.linkedin.com/in/wandanisrinaa/), or [WhatsApp](http://wa.me/6281284491758).
